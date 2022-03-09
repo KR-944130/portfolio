@@ -1,8 +1,7 @@
 # 이성학 포트폴리오
 
 ## :pushpin: Intro
-(여기에 자기 소개)
-
+* 이름 : 이성학
 </br>
 
 ## :pushpin: Contact
