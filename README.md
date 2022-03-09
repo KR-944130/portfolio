@@ -1,7 +1,8 @@
 # 이성학 포트폴리오
-
+> 책임감을 가지고 최선을 다하자
+</br>
 ## :pushpin: Intro
-* 이름 : 이성학
+
 </br>
 
 ## :pushpin: Contact
