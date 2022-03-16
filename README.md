@@ -36,7 +36,7 @@
 >개발 기간: 2022.01.11 ~ 2022.02.06
 >  
 >기술 스택:  
->Java 8 / JSP / HTML&CSS3 / Javascript / jQuery / ajax
->Oracle 11g XE / MyBatis 3.5.7 / 
+>Java 8 / JSP / HTML & CSS3 / Javascript / jQuery 3.6.0 / ajax /
+>Oracle 11g XE / MyBatis 3.5.7
 >  
 >[프로젝트 상세 설명](https://github.com/KR-944130/JSP_project) 참고
