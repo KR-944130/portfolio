@@ -31,7 +31,7 @@
 </br>
 
 ## :pushpin: Project
-### 2. [Instagram 클론코딩]()
+### 2. [Instagram 클론코딩](https://github.com/KR-944130/JSP_project)
 >인스타그램 웹사이트 클론코딩 프로젝트 (팀 프로젝트)  
 >개발 기간: 2022.01.11 ~ 2022.02.06
 >  
