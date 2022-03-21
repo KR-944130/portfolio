@@ -31,11 +31,4 @@
 </br>
 
 ## :pushpin: Project
-### 1. JSP 프로젝트
->인스타그램 웹사이트 클론코딩 프로젝트 (팀 프로젝트 7명)</br>
->개발 기간: 2022.01.11 ~ 2022.02.06
->
->기술 스택:  
->Java 8 / JSP / HTML & CSS3 / Javascript / jQuery 3.6.0 / ajax / Oracle 11g XE / MyBatis 3.5.7
->
->[프로젝트 상세 설명](https://github.com/KR-944130/JSP_project) 참고
+### 1. 프로젝트
